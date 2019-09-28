@@ -1,11 +1,11 @@
-package ca.mcgill.ecse211.lab3;
+
 
 import lejos.hardware.lcd.LCD;
 import lejos.hardware.motor.EV3LargeRegulatedMotor;
 import lejos.hardware.motor.EV3MediumRegulatedMotor;
 import lejos.hardware.sensor.EV3UltrasonicSensor;
 import lejos.robotics.SampleProvider;
-import ca.mcgill.ecse211.lab3.Odometer;
+
 
 
 
